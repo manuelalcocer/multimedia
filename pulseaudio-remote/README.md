@@ -21,7 +21,7 @@ Yo le he encontrado una gran utilidad en los siguientes casos:
 
 ## Funcionamiento.
 
-Pulseaudio se puede configurar para que __publique__ o __descubra__ las tarjetas de sonido disponibles en la red, o ambas. Para esto es necesario __avahi-daemon__.
+Pulseaudio se puede configurar para que __publique__ o __descubra__ las tarjetas de sonido disponibles en la red, o ambas funciones. Para esto es necesario __avahi-daemon__.
 
 Con los comandos __pacmd list-sinks__ y __pactl__ se pueden configurar manualmente las salidas (sinks) a utilizar, en este caso no es necesario __avahi-daemon__.
 
